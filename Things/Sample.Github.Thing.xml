@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <Entities>
     <Things>
-        <Thing description="" documentationContent="" effectiveThingPackage="ConfiguredThing" enabled="true" homeMashup="" identifier="" lastModifiedDate="2015-11-19T18:02:57.080+08:00" name="Sample.Github.Thing" published="false" tags="Applications:SampleApp.Github" thingTemplate="GenericThing" valueStream="">
+        <Thing description="" documentationContent="" effectiveThingPackage="ConfiguredThing" enabled="true" homeMashup="" identifier="" lastModifiedDate="2015-11-19T18:04:17.682+08:00" name="Sample.Github.Thing" published="false" tags="Applications:SampleApp.Github" thingTemplate="GenericThing" valueStream="">
             <Owner name="Administrator" type="User"/>
             <avatar/>
             <DesignTimePermissions>
@@ -33,6 +33,7 @@
             <ThingProperties/>
             <ConfigurationChanges>
                 <ConfigurationChange changeAction="CREATE" changeReason="header : name : updated, thingTemplate : updated, tags : updated&#10;" timestamp="2015-11-19T18:02:57.080+08:00" user="Administrator"/>
+                <ConfigurationChange changeAction="MODIFY" changeReason="" timestamp="2015-11-19T18:04:17.682+08:00" user="Administrator"/>
             </ConfigurationChanges>
         </Thing>
     </Things>
